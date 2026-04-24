@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
     <p>
         <img src="https://count.getloli.com/@guarav-null?name=gaurav-nullg&theme=booru-helltaker&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="guarav-null">
     </p>
@@ -34,10 +34,6 @@ favorite.anime: Evangelion: 3.0+1.0 Thrice Upon a Time
     <img style ="margin: 10px;" src="https://skillicons.dev/icons?i=javascript,ts,nodejs,react,c,java,arch,neovim,git,terraform,aws,docker,postgres,linux,mongodb&perline=5" />
   </a>
 </p>
-
- <p>
-        <img src="https://count.getloli.com/@guarav-null?name=gaurav-nullg&theme=booru-helltaker&padding=4&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto" alt="guarav-null">
-    </p>
 
 <div align="center">
 <h3 align="center">Connect with me</h3>
