@@ -31,7 +31,7 @@ favorite.anime: Evangelion: 3.0+1.0 Thrice Upon a Time
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img style ="margin: 10px;" src="https://skillicons.dev/icons?i=javascript,ts,nodejs,react,c,java,arch,neovim,git,terraform,aws,docker,postgres,shell,mongodb&perline=5" />
+    <img style ="margin: 10px;" src="https://skillicons.dev/icons?i=javascript,ts,nodejs,react,c,java,arch,neovim,git,terraform,aws,docker,postgres,linux,mongodb&perline=5" />
   </a>
 </p>
 
