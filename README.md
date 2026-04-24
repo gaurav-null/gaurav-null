@@ -13,7 +13,7 @@ gaurav@nile: ~/readme $ fastfetch
 ```csharp
 ------------------------------------------------------------
 username: gaurav-null
-whoami: cr @ frcrce
+whoami: CE @ frcrce
 pronouns: he/him
 os: arch linux
 languages: javascript, java
