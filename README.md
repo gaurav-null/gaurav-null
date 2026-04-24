@@ -8,7 +8,7 @@
 gaurav@nile: ~/readme $ fastfetch
 ```
 
-<img src="asset/eva.png" align="left" alt="meow" width="250">
+<img src="asset/eva.png" align="left" alt="meow" width="300">
 
 ```csharp
 ------------------------------------------------------------
@@ -18,6 +18,7 @@ pronouns: he/him
 os: arch linux
 languages: javascript, java
 learning: kafka
+reading: Dune
 locations: India
 hobbies: programming, gaming, anime/manga, music, video editing
 song: String Theory by wishlane
