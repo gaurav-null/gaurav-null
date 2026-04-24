@@ -18,7 +18,6 @@ pronouns: he/him
 os: arch linux
 languages: javascript, java
 learning: kafka
-reading: Dune
 locations: India
 hobbies: programming, gaming, anime/manga, music, video editing
 song: String Theory by wishlane
